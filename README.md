@@ -4,7 +4,7 @@ A front-end practice project focused on recreating the core user interface of a 
 page. This project demonstrates the use of modern CSS layout techniques like Flexbox and
 Grid to build a responsive and organized media dashboard.
 
-[Page link]()
+[Page link](https://carlab09.github.io/layout_youtube_com_grid/)
 
 ## Technologies used:
 *  HTML
